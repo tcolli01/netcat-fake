@@ -1,2 +1,2 @@
-# netcat-fake
-netcat fake outoutput
+# netstat-fake
+netstat fake outoutput
